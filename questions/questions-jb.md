@@ -21,9 +21,8 @@ into a single commit?
 
 ### Answer
 1. Make sure your branch is up to date with the master branch.
-1. Run git rebase -i master.
-1. You should see a list of commits, with each commit starting with the word "pick".
-1. Make sure the first commit says "pick" and change the rest from "pick" to "squash".
+1. Run `git rebase -i master`.
+1. In the text editor that appears, make sure the first commit says `pick`. Replace the words `pick` with `squash` next to the commits you want to squash into the first commit.
 1. Save and close the editor.
 
 ### What is wrong with this sample JSON syntax?
