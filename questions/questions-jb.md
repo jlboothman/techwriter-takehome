@@ -17,6 +17,19 @@ into a single commit?
   "kafka" : 2.3 
 }
 ```
+### Answer (CHECK)
+Each line needs a comma at the end, and the "location" : "San Francisco" line does not have one. To fix the syntax, add a comma at the end of this line, as follows:
+
+```
+{
+  "first_name" : "Franz",
+  "last_name" : "Kafka",
+  "location" : "San Francisco",
+  "streams" : true,
+  "kafka" : 2.3 
+}
+```
+
 
 ### What is the ZooKeeper port?
 
