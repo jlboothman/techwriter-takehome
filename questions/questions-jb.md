@@ -11,8 +11,8 @@ First, use these steps revert the change on the `master` branch:
 
 To make the change to the `staging` branch:
 
-1. Navigate to the `staging` branch, and make your changes. 
-1. Click **Commit**.
+1. From your local repository, navigate to the `staging` branch. 
+1. Create a **Pull** request to add your changes to this branch.
 
 
 ### How do you squash git commits?
