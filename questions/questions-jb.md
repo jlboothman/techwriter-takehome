@@ -5,9 +5,15 @@ change to another branch named `staging`. What do you do?
 ### Answer
 First, use these steps revert the change on the `master` branch:
 
-1. Click History.
+1. Click **History**.
 1. In the commit history list, click the commit you want to revert.
 1. Right-click the commit and click **Revert This Commit**.
+
+To make the change to the `staging` branch:
+
+1. Navigate to the `staging` branch, and make your changes. 
+1. Click **Commit**.
+
 
 ### How do you squash git commits?
 Scenario: You have a GitHub branch with 5 separate commits. What is the command line sequence to squash those 5 commits 
