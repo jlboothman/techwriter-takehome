@@ -14,7 +14,6 @@ Next, to make the change to the `staging` branch:
 1. From your local repository, navigate to the `staging` branch. 
 1. Create a **Pull** request to add your changes to this branch.
 
-
 ### How do you squash git commits?
 Scenario: You have a GitHub branch with 5 separate commits. What is the command line sequence to squash those 5 commits 
 into a single commit?
@@ -36,7 +35,7 @@ into a single commit?
   "kafka" : 2.3 
 }
 ```
-### Answer (CHECK)
+### Answer
 The fourth line does not have a comma at the end. The fixed version is as follows:
 
 ```
@@ -48,7 +47,6 @@ The fourth line does not have a comma at the end. The fixed version is as follow
   "kafka" : 2.3 
 }
 ```
-
 
 ### What is the ZooKeeper port?
 
