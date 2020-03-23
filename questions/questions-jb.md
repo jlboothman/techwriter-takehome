@@ -3,13 +3,13 @@ Scenario: You make an update and commit to the `master` branch. Afterward, you r
 change to another branch named `staging`. What do you do? 
 
 ### Answer
-First, use these steps revert the change on the `master` branch:
+To revert a specific commit to remove its changes from the `master` branch, perform these steps:
 
 1. Click **History**.
 1. In the commit history list, click the commit you want to revert.
 1. Right-click the commit and click **Revert This Commit**.
 
-To make the change to the `staging` branch:
+Next, to make the change to the `staging` branch:
 
 1. From your local repository, navigate to the `staging` branch. 
 1. Create a **Pull** request to add your changes to this branch.
