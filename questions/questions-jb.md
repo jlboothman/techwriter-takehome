@@ -19,6 +19,13 @@ To make the change to the `staging` branch:
 Scenario: You have a GitHub branch with 5 separate commits. What is the command line sequence to squash those 5 commits 
 into a single commit?
 
+### Answer
+1. Make sure your branch is up to date with the master branch.
+1. Run git rebase -i master.
+1. You should see a list of commits, with each commit starting with the word "pick".
+1. Make sure the first commit says "pick" and change the rest from "pick" to "squash".
+1. Save and close the editor.
+
 ### What is wrong with this sample JSON syntax?
 
 ```
@@ -31,7 +38,7 @@ into a single commit?
 }
 ```
 ### Answer (CHECK)
-Each line needs a comma at the end, and the fourth line does not have one. The fixed version is as follows:
+The fourth line does not have a comma at the end. The fixed version is as follows:
 
 ```
 {
