@@ -18,15 +18,15 @@ into a single commit?
 }
 ```
 ### Answer (CHECK)
-The syntax has unnecessary spaces before and after each colon. Each line needs a comma at the end, and the third line does not have one. The fixed version is as follows:
+Each line needs a comma at the end, and the fourth line does not have one. The fixed version is as follows:
 
 ```
 {
-  "first_name":"Franz",
-  "last_name":"Kafka",
-  "location":"San Francisco",
-  "streams":true,
-  "kafka":2.3 
+  "first_name" : "Franz",
+  "last_name" : "Kafka",
+  "location" : "San Francisco",
+  "streams" : true,
+  "kafka" : 2.3 
 }
 ```
 
