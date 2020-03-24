@@ -54,7 +54,7 @@ Scenario: Complete step 1 of [this quick start](https://docs.confluent.io/curren
 install a local version of Confluent Platform. After completing step 1, what port number is ZooKeeper running on?
 
 ### Answer 
-ZooKeeper is running on port 2181: .
+ZooKeeper is running on port 2181.
 
 ### What are the default topics created when you install Confluent Platform using the quick start?
 
