@@ -54,9 +54,9 @@ Scenario: Complete step 1 of [this quick start](https://docs.confluent.io/curren
 install a local version of Confluent Platform. After completing step 1, what port number is ZooKeeper running on?
 
 ### Answer 
-After completing step 1, you see the ZooKeeper is running these ports: 2181/tcp, 2888/tcp, and 3888/tcp (see the following).
+After completing step 1, you see the ZooKeeper is running these ports: 2181/tcp, 2888/tcp, and 3888/tcp, as shown in the following example:
 
-![](/jlboothman/techwriter-takehome/blob/master/questions/ZooKeeperPort.png)
+![](https://github.com/jlboothman/techwriter-takehome/blob/master/questions/ZooKeeperPort.png)
 
 
 ### What are the default topics created when you install Confluent Platform using the quick start?
