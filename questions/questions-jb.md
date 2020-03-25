@@ -54,7 +54,7 @@ Scenario: Complete step 1 of [this quick start](https://docs.confluent.io/curren
 install a local version of Confluent Platform. After completing step 1, what port number is ZooKeeper running on?
 
 ### Answer 
-After several attempts, I was able to get Docker installed and complete step 1. ZooKeeper is running on port 2181.
+ZooKeeper is running on port 2181.
 
 ### What are the default topics created when you install Confluent Platform using the quick start?
 
@@ -62,7 +62,7 @@ Scenario: After you complete step 1 of [this quick start](https://docs.confluent
 open Control Center at http://localhost:9021/. What are the names of the default topics that are created by Kafka?
 
 ### Answer
-The default topics created by Kafka are: 
+I couldn't get Docker to open on my PC and couldn't create this build. After further exhaustive research, I couldn't find the answer to this question. 
 
 ### What is the name of the Connect cluster that is created?
 
