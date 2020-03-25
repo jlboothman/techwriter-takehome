@@ -62,7 +62,7 @@ Scenario: After you complete step 1 of [this quick start](https://docs.confluent
 open Control Center at http://localhost:9021/. What are the names of the default topics that are created by Kafka?
 
 ### Answer
-The default topics created by Kafka are
+The default topics created by Kafka are .
 
 ### What is the name of the Connect cluster that is created?
 
