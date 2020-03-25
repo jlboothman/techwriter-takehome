@@ -69,6 +69,6 @@ The default topics created by Kafka are:
 Scenario: Complete step 2 of [this quick start](https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html). 
 What is the name of the Connect cluster that is created?
 
-###A Answer
+### Answer
 The Connect cluster name is connect-default.
 
