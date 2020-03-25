@@ -62,7 +62,7 @@ Scenario: After you complete step 1 of [this quick start](https://docs.confluent
 open Control Center at http://localhost:9021/. What are the names of the default topics that are created by Kafka?
 
 ### Answer
-I couldn't get Docker to open on my PC and couldn't create this build. After further exhaustive research, I couldn't find the answer to this question. 
+Although I reset the memory restrictions, I couldn't get Docker to open on my PC and couldn't create this build. After further exhaustive web research, I couldn't find the answer to this question. 
 
 ### What is the name of the Connect cluster that is created?
 
