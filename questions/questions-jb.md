@@ -64,6 +64,8 @@ open Control Center at http://localhost:9021/. What are the names of the default
 ### Answer
 The default topics created by Kafka are .
 
+![](https://jlboothman/techwriter-takehome/topics.PNG)
+
 ### What is the name of the Connect cluster that is created?
 
 Scenario: Complete step 2 of [this quick start](https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html). 
