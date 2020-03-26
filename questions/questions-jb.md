@@ -64,7 +64,7 @@ open Control Center at http://localhost:9021/. What are the names of the default
 ### Answer
 The default topics created by Kafka are .
 
-![](https://jlboothman/techwriter-takehome/uestions/topics.PNG)
+![](https://jlboothman/techwriter-takehome/questions/topics.PNG)
 
 ### What is the name of the Connect cluster that is created?
 
