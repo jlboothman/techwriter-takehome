@@ -62,15 +62,13 @@ Scenario: After you complete step 1 of [this quick start](https://docs.confluent
 open Control Center at http://localhost:9021/. What are the names of the default topics that are created by Kafka?
 
 ### Answer
-The default topics created by Kafka are .
-
-![](/techwriter-takehome/questions/topics.PNG)
+The default topics created by Kafka, located in Cluster 1, are **docker-connect-configs**, **docker-connect-offsets**, and **docker-connect-status**.
 
 ### What is the name of the Connect cluster that is created?
 
 Scenario: Complete step 2 of [this quick start](https://docs.confluent.io/current/quickstart/ce-docker-quickstart.html). 
 What is the name of the Connect cluster that is created?
 
-### Answer
+### Answer**docker-connect-status**
 <<Check>>The Connect cluster name is connect-default.
 
